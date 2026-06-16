@@ -103,4 +103,15 @@ Mode                 LastWriteTime         Length Name
 ----                 -------------         ------ ----
 d-----         6/15/2026  11:35 PM                archive
 
+## Paso 4 Exploración guiada
+- ¿dónde se guardarían las propuestas? Las propuestas son almacenadas en la carpeta change
+
+- ¿dónde los specs?, éstas se almacenan en la carpeta specs
+
+- ¿dónde lo archivado?, una vez terminada la ejecucion del **opsx:apply** se procede a archivar, esto se almacene en la carpeta changes/archive y es como crear un histórico de lo que se ha completado del proyecto.
+
+
+Me parece interesante que la propuesta puede ser algo muy light de especificar y openspect lo amplia y lo define, esto se almacena en specs, la **propuesta** hasta puede ser escrita a mano, pero el **spec** no, esta es lo que se llama fuente de verdad, lo que el copiloto de IA va tomar para construir.
+
+
 ## Ver archivo PlantillaRegistro para ver resultados de la parte A
