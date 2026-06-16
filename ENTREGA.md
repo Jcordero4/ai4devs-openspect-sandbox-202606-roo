@@ -103,3 +103,4 @@ Mode                 LastWriteTime         Length Name
 ----                 -------------         ------ ----
 d-----         6/15/2026  11:35 PM                archive
 
+## Ver archivo PlantillaRegistro para ver resultados de la parte A
